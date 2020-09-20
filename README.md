@@ -1,2 +1,1 @@
-# rsschool-cv
-init: start git &amp; markdown task
+https://advoryan.github.io/rsschool-cv/cv
