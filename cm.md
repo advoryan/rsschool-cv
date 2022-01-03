@@ -42,3 +42,26 @@ CSS      ⬜️⬜️⬛️⬛️⬛️
 VBA      ⬜️⬜️⬜️⬜️⬛️
 ```
 ## English level is B2
+
+## Code example (Django/Python)
+```Python
+from books.models import Book
+from books.forms import BookCreateForm
+from django.urls import reverse_lazy
+
+class BookCreateView(PermissionRequiredMixin, CreateView):
+    model = Book
+    template_name = 'data/Creation_form.html'
+    form_class = BookCreateForm
+    permission_required = 'books.edit'
+
+    def get_success_url(self):
+        detail = self.request.POST.get("detail")
+        list1 = self.request.POST.get("list")
+        view1 = self.request.POST.get("view")
+        if detail:
+            return reverse_lazy("book-detail-view", kwargs={"pk": self.object.pk})
+        elif list1:
+            return reverse_lazy("book-list-view")
+        return reverse_lazy("book-create-view")
+```
