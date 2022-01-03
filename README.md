@@ -1,7 +1,7 @@
 **Hi! I'm Alex! Nice to meet you!**
 
 # Here you can find my CVs:
-**HTML+CSS+JS: [https://advoryan.github.io/rsschool-cv/](https://advoryan.github.io/rsschool-cv/) \
+**HTML, CSS: [https://advoryan.github.io/rsschool-cv/](https://advoryan.github.io/rsschool-cv/) \
 Markdown: [https://advoryan.github.io/rsschool-cv/cv](https://advoryan.github.io/rsschool-cv/cv)**
 #
 
