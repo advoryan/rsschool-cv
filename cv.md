@@ -29,7 +29,7 @@ Financial Analyst with 10+ years experience. Created models of bank and local ma
 
 * [Github @advoryan](https://github.com/advoryan)
 
-`## Skills
+## Skills
 
 ```
 SQL      ⬜️⬜️⬛️⬛️⬛️
