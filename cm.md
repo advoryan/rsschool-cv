@@ -25,8 +25,20 @@ Financial Analyst with 10+ years experience. Created models of bank and local ma
 * 2019 - Streamline
 * 2021 - International House
 
-
 ## Code examples
 
 * [Github @advoryan](https://github.com/advoryan)
-`
+
+`## Skills
+
+```
+SQL      ⬜️⬜️⬛️⬛️⬛️
+PowerBI  ⬜️⬜️⬜️⬛️⬛️
+Python   ⬜️⬜️⬛️⬛️⬛️
+Django   ⬜️⬜️⬛️⬛️⬛️
+JS       ⬜️⬛️⬛️⬛️⬛️
+HTML     ⬜️⬜️⬜️⬛️⬛️
+CSS      ⬜️⬜️⬛️⬛️⬛️
+VBA      ⬜️⬜️⬜️⬜️⬛️
+```
+## English level is B2
