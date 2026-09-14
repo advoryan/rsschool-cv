@@ -137,7 +137,7 @@ readonly results$ = this.search.valueChanges.pipe(
 - **The Rolling Scopes School** — Fullstack Engineering course, 2026 — present.
   Frontend and backend fundamentals, code review and cross-check practice.
   First course project: this CV —
-  [source code](https://github.com/GITHUB-USERNAME/rsschool-cv) ·
+  [source code](https://github.com/advoryan/rsschool-cv) ·
   [live page](https://GITHUB-USERNAME.github.io/rsschool-cv/)
 - **Belarus State Economic University** — BSc in Economic Cybernetics
 
