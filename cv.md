@@ -11,7 +11,7 @@ description: Frontend Developer — Angular / TypeScript
 
 ## Contacts
 
-- **Location:** Wrocław, Poland (open to Warsaw / remote)
+- **Location:** Warsaw, Poland (open to relocate)
 - **Phone:** [+48 452-594-320](tel:+48452594320)
 - **E-mail:** [a.dvoryan@gmail.com](mailto:a.dvoryan@gmail.com)
 - **LinkedIn:** [linkedin.com/in/a-dvaraninau](https://www.linkedin.com/in/a-dvaraninau/)
