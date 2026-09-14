@@ -250,7 +250,6 @@ pre {
   line-height: 1.65;
 }
 
-
 .footer {
   display: flex;
   align-items: center;
@@ -265,4 +264,99 @@ pre {
 .footer p {
   margin: 0;
   color: var(--muted);
+}
+
+.school img {
+  display: block;
+  width: 108px;
+  height: auto;
+}
+
+@media (max-width: 850px) {
+  body {
+    padding: 24px 16px;
+  }
+
+  .intro,
+  .details {
+    padding: 30px;
+  }
+
+  .sidebar {
+    padding: 30px 24px;
+  }
+
+  h1 {
+    font-size: 34px;
+    letter-spacing: 1px;
+  }
+
+  .role {
+    letter-spacing: 1px;
+  }
+}
+
+@media (max-width: 640px) {
+  body {
+    padding: 0;
+  }
+
+  .header,
+  .content {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .portrait {
+    max-width: 320px;
+    margin: 0 auto;
+  }
+
+  .intro,
+  .sidebar,
+  .details {
+    padding: 32px 24px;
+  }
+
+  h1 {
+    font-size: clamp(28px, 8vw, 42px);
+  }
+
+  .footer {
+    justify-content: center;
+    padding: 24px;
+    text-align: center;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+@media print {
+  body {
+    padding: 0;
+    background: white;
+    font-size: 11px;
+  }
+
+  .cv {
+    box-shadow: none;
+  }
+
+  nav,
+  .skip-link {
+    display: none;
+  }
+
+  h2,
+  h3 {
+    break-after: avoid;
+  }
+
+  pre {
+    white-space: pre-wrap;
+    overflow-wrap: anywhere;
+  }
 }
