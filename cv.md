@@ -5,6 +5,8 @@ description: Frontend Developer — Angular / TypeScript
 
 # Aliaksandr Dvaraninau
 
+![Aliaksandr Dvaraninau](https://github.com/assets/advoryan.jpg?size=240)
+
 ## Frontend Developer — Angular / TypeScript
 
 ---
