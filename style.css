@@ -197,3 +197,55 @@ li {
 li:last-child {
   margin-bottom: 0;
 }
+
+.sidebar ul {
+  padding: 0;
+  list-style: none;
+}
+
+.sidebar li {
+  margin-bottom: 17px;
+}
+
+.sidebar strong {
+  display: block;
+  margin-bottom: 3px;
+  font-size: 12px;
+  letter-spacing: 0.7px;
+  text-transform: uppercase;
+}
+
+.sidebar section + section::before {
+  display: block;
+  width: 48px;
+  height: 2px;
+  margin-bottom: 35px;
+  background: #b4b0ab;
+  content: "";
+}
+
+.sidebar h2 {
+  padding-bottom: 0;
+  border: 0;
+  font-size: 15px;
+}
+
+#experience em {
+  color: var(--muted);
+  font-size: 13px;
+  font-style: normal;
+}
+
+code {
+  font-family: Consolas, "Liberation Mono", monospace;
+  font-size: 0.85em;
+}
+
+pre {
+  margin: 20px 0 0;
+  padding: 22px;
+  overflow-x: auto;
+  border-left: 2px solid #b4b0ab;
+  background: #f5f4f2;
+  line-height: 1.65;
+}
