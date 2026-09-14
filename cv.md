@@ -58,3 +58,25 @@ across the whole stack, not only its UI.
   GitHub Copilot
 
 ---
+
+## Code Example
+
+RxJS text field input autocomplete with 300ms debounce and switchMap to cancel outdated API requests.
+
+```
+readonly search = new FormControl('', { nonNullable: true });
+
+readonly results$ = this.search.valueChanges.pipe(
+  map(value => value.trim()),
+  debounceTime(300),
+  distinctUntilChanged(),
+  filter(value => value.length >= 2),
+  switchMap(query =>
+    this.api.search(query).pipe(
+      catchError(() => of([]))
+    )
+  )
+);
+```
+
+---
