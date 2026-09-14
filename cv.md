@@ -80,3 +80,71 @@ readonly results$ = this.search.valueChanges.pipe(
 ```
 
 ---
+
+## Experience
+
+### Frontend Engineer (Angular) — Max Momentum LLC
+
+*Remote, US-based company · Jul 2023 — present*
+
+- Developed and maintained Angular applications, analytics dashboards, CRM-style
+  workflows and internal monitoring tools for data-heavy business operations.
+- Implemented reusable Angular modules, components, services and typed API models
+  using TypeScript, RxJS, Signals, Angular Material and PrimeNG.
+- Delivered KPI dashboards for campaign performance, revenue, user activity and
+  operational metrics, so non-technical teams can monitor the business without
+  manual reporting.
+- Built data-heavy admin tables with filtering, sorting, pagination, saved column
+  settings, loading states and optimised rendering for 1,000+ row datasets.
+- Integrated REST APIs with authentication, interceptors, typed models, error
+  handling and data refresh flows.
+- Created a monitoring system with an admin panel for hundreds of landing pages
+  (Node.js / Express, Telegram bot on grammY), reducing manual checks.
+- Built a lead management API with NestJS, Prisma and PostgreSQL, and supported an
+  existing MongoDB database.
+
+### Frontend Developer — Andersen Lab
+
+*Remote, Poland · Jan 2021 — Jul 2023*
+
+- Worked on commercial Angular projects in Healthcare and FinTech domains: CRM
+  modules, dashboards, scheduling workflows and API-driven business features.
+- TaskDent Healthcare CRM: developed Angular 15 modules with NgRx, forms, tables,
+  dashboards and REST API integration.
+- Built interactive financial, patient-activity and operational dashboards with
+  ApexCharts.
+- Internal scheduling tool: real-time room reservation system on Angular 11 and
+  WebSockets.
+- Improved code quality through code reviews, refactoring, regression fixes and unit
+  tests with Jasmine / Karma; worked in Agile / Scrum teams with backend, QA and
+  business stakeholders.
+
+### Data Analyst, Financial Analysis Department — Belgazprombank
+
+*Belarus · Jan 2010 — Jan 2021*
+
+- Automated financial reporting and analytical workflows with Power BI, SQL, Python
+  and VBA / Excel.
+- Built dashboards and reporting tools, then transitioned into software engineering
+  and frontend development.
+
+---
+
+## Education
+
+- **The Rolling Scopes School** — Fullstack Engineering course, 2026 — present.
+  Frontend and backend fundamentals, code review and cross-check practice.
+  First course project: this CV —
+  [source code](https://github.com/GITHUB-USERNAME/rsschool-cv) ·
+  [live page](https://GITHUB-USERNAME.github.io/rsschool-cv/)
+- **Belarus State Economic University** — BSc in Economic Cybernetics
+
+---
+
+## Languages
+
+- **English — B2+.** Daily working language for the last five years: stand-ups and
+  planning with a US-based team, technical documentation, code reviews and Pull
+  Request discussions in English.
+- **Polish — basic.**
+- **Russian, Belarusian — native.**
