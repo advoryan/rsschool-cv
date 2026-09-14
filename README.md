@@ -1,5 +1,6 @@
 # rsschool-cv
 
-[https://advoryan.github.io/rsschool-cv/cv](https://advoryan.github.io/rsschool-cv/cv)
+Aliaksandr Dvaraninau
 
-[https://advoryan.github.io/rsschool-cv/](https://advoryan.github.io/rsschool-cv/)
+- [CV — Markdown](https://advoryan.github.io/rsschool-cv/cv)
+- [CV — HTML & CSS](https://advoryan.github.io/rsschool-cv/)
