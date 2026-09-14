@@ -41,3 +41,20 @@ backend skills (Node.js, NestJS, PostgreSQL) to a level where I can own a featur
 across the whole stack, not only its UI.
 
 ---
+
+## Skills
+
+- **Frontend:** Angular (11–21), TypeScript, JavaScript (ES6+), RxJS, Signals, NgRx,
+  Nx; React / Next.js fundamentals
+- **UI & data:** Angular Material, PrimeNG, Highcharts, ApexCharts, Gridster, HTML5,
+  CSS3, SCSS, Tailwind, Bootstrap
+- **Web integration:** REST APIs, WebSockets, authentication, tracking and event
+  instrumentation
+- **Testing:** unit testing, Jest, Jasmine / Karma, Cypress fundamentals
+- **Tooling / DevOps:** Git, GitHub, CI/CD (GitLab, Jenkins), Docker, AWS fundamentals
+- **Backend:** Node.js, NestJS, Express, PostgreSQL, Prisma ORM, MongoDB, REST API
+  development
+- **Developer tools:** VS Code, Chrome DevTools, Figma, OpenAI Codex, Claude Code,
+  GitHub Copilot
+
+---
